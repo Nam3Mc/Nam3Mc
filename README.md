@@ -1,47 +1,46 @@
-Hola! 
-Mi nimbre es Dreiser Morales
+# 👋 Hello! I'm Dreiser Morales  
 
-# 🚀 Sobre mí
+## 🚀 About Me  
 
-Soy un **desarrollador Full Stack** con un enfoque especializado en el desarrollo **backend** y la **lógica de negocios**.
+I am a **Full Stack Developer** with a strong focus on **backend development** and **business logic**.  
 
-Mi pasión por la programación comenzó cuando creé mi primer servidor para un juego en línea llamado **Mu**. Aunque en ese entonces muchas configuraciones venían preestablecidas, esa experiencia despertó en mí la motivación y el deseo de comprender la ciencia detrás del código.  
-
----
-
-## 💼 ¿Qué hago?
-
-Actualmente trabajo como **Paralegal Assistant** en una firma de abogados mientras continúo mis estudios en **BYU-Idaho**, donde curso la carrera de **Software Development**.
-
-Además, completé con éxito el **bootcamp de Henry**, una formación intensiva enfocada en desarrollo **backend**, donde adquirí habilidades prácticas en un entorno simulado del mundo laboral.  
+My passion for programming started when I created my first online game server for **Mu**. At that time, many configurations were pre-set, but that experience ignited my motivation and curiosity to understand the science behind the code.  
 
 ---
 
-## 🎯 ¿Hacia dónde me dirijo?
+## 💼 What Do I Do?  
 
-El futuro es digital, y quiero ser parte activa de él.
+I currently work as a **Paralegal Assistant** at a law firm while pursuing my **Software Development** degree at **BYU-Idaho**.  
 
-Disfruto programar y participar en proyectos que me desafíen a aprender nuevas habilidades. Sé que el mercado ofrece innumerables oportunidades y que mis habilidades en **resolución de problemas** y mi **dinamismo** me convierten en un activo valioso para cualquier empresa o proyecto al que pueda aportar.  
-
----
-
-## 🛠️ Tecnologías que utilizo
-
-Durante mi formación en **Henry**, tuve la oportunidad de aprender y aplicar en un entorno práctico tecnologías como:
-
-- ✅ **JavaScript** | **TypeScript**
-- ✅ **NestJS** | **Node.js**
-- ✅ **Git** | **Cloudinary**
-- ✅ **PostgreSQL** | **MongoDB**
-- ✅ **React** | **Next.js**
-- ✅ **Trello**
-
-También tengo conocimientos en **HTML** y **CSS**, así como fundamentos en **Python**, **C#** y **C++**, adquiridos en mis estudios en **BYU-Idaho**.  
+Additionally, I successfully completed the **Henry Bootcamp**, an intensive training program focused on **backend development**, where I gained hands-on experience in a simulated real-world work environment.  
 
 ---
 
-## 📫 Contacto
+## 🎯 Where Am I Headed?  
 
-📧 **Email:** moralesdreiser5@gmail.com 
-💼 **LinkedIn:** www.linkedin.com/in/dreiser-morales-645788263  
-🐙 **GitHub:** https://github.com/Nam3Mc 
+The future is digital, and I want to be an active part of it.  
+
+I enjoy coding and participating in projects that challenge me to learn new skills. I know that the job market offers countless opportunities, and my **problem-solving skills** and **adaptability** make me a valuable asset for any company or project where I can contribute my expertise.  
+
+---
+
+## 🛠️ Technologies I Use  
+
+During my training at **Henry**, I had the opportunity to learn and apply various technologies in practical, real-world scenarios:  
+
+- ✅ **JavaScript** | **TypeScript**  
+- ✅ **NestJS** | **Node.js**  
+- ✅ **Git** | **Cloudinary**  
+- ✅ **PostgreSQL** | **MongoDB**  
+- ✅ **React** | **Next.js**  
+- ✅ **Trello**  
+
+I also have knowledge of **HTML** and **CSS**, along with a basic understanding of **Python**, **C#**, and **C++**, acquired through my studies at **BYU-Idaho**.  
+
+---
+
+## 📫 Contact Me  
+
+📧 **Email:** moralesdreiser5@gmail.com  
+💼 **LinkedIn:** [Dreiser Morales](https://www.linkedin.com/in/dreiser-morales-645788263)  
+🐙 **GitHub:** [Nam3Mc](https://github.com/Nam3Mc)  
